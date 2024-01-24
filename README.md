@@ -1,6 +1,6 @@
 ## Tree Models for Regression
 
-This repository consists of a tutorial on an introduction to Tree models for Regression. This work was originally presented at the GeoSMART Hackweek at eScience Intitute of the university of Washington, Seattle. The tutorial is deployed on [GeoSMART Website](https://geosmart.hackweek.io/tutorials/tree_models/Tree_Models_in_ML.html). Leran more about GeoSMART on their [GitHub repository](https://github.com/geo-smart/2023-hackweek-website/tree/main) and their [website](https://geosmart.hackweek.io/).
+This repository consists of a tutorial on an introduction to Tree models for Regression. I presented this at the GeoSMART Hackweek at eScience Intitute of the University of Washington, Seattle. The tutorial is deployed on [GeoSMART Website](https://geosmart.hackweek.io/tutorials/tree_models/Tree_Models_in_ML.html). Leran more about GeoSMART on their [GitHub repository](https://github.com/geo-smart/2023-hackweek-website/tree/main) and their [website](https://geosmart.hackweek.io/).
 
 ## Acknowledgements
 
